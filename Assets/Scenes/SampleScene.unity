@@ -167,7 +167,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 213694583}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.34100008, y: 2, z: -1}
+  m_LocalPosition: {x: 3.29, y: -1.13, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 260897664}
@@ -322,7 +322,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 9
+  orthographic size: 12.448071
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -420,8 +420,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 546453592}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.301, y: 0.028, z: 0}
-  m_LocalScale: {x: 10.708825, y: 12.625336, z: 1}
+  m_LocalPosition: {x: -2.35, y: -5.27, z: 0}
+  m_LocalScale: {x: 23.835789, y: 29.718422, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -450,8 +450,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 735032331}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.29, y: -9, z: 0}
-  m_LocalScale: {x: 1.041, y: 1.023, z: 1}
+  m_LocalPosition: {x: 2.119, y: -12.538, z: 0}
+  m_LocalScale: {x: 2.2061381, y: 0.6958446, z: 1}
   m_Children: []
   m_Father: {fileID: 260897664}
   m_RootOrder: 1
@@ -622,8 +622,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 885796089}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.9, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -9.355, y: 0.81, z: 0}
+  m_LocalScale: {x: 1.303, y: 1.38, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -860,8 +860,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1526797034}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.9, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 9.4, y: -0.54, z: 0}
+  m_LocalScale: {x: 1, y: 1.3804001, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
