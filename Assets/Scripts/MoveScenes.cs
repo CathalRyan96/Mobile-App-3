@@ -4,9 +4,10 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class MoveScenes : MonoBehaviour {
-    [SerializeField] private string newLevel;
+    [SerializeField]
+    private string newLevel;
 
-    void onTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("player"))
         {
@@ -14,5 +15,6 @@ public class MoveScenes : MonoBehaviour {
         }
     }
 
+	
 	
 }
