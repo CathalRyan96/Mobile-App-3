@@ -25,6 +25,7 @@ public class PlayerController : MonoBehaviour {
 
         //player movement
         moveInput = Input.GetAxis("Horizontal");
+        Debug.Log(moveInput);
         rb.velocity = new Vector2(moveInput * speed, rb.velocity.y);
 
         //jumping

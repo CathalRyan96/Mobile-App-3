@@ -1206,7 +1206,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 489beedf8d89fb147838ac753ca60091, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newLevel: 
+  newLevel: level3
 --- !u!61 &835517489
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1588,7 +1588,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 953013514}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 20.42, y: 2.33, z: -1}
+  m_LocalPosition: {x: 20.4, y: 2.19, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1541301426}
@@ -1959,8 +1959,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afdf624bdd0bce3438cc0b569fd28ee7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 60
-  jumpPower: 7
+  speed: 5
+  jumpPower: 5
   rb: {fileID: 0}
 --- !u!212 &1451377600
 SpriteRenderer:
