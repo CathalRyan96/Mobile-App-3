@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DoubleJump : MonoBehaviour
+public class doubleJump : MonoBehaviour
 {
 
     float dirX;
@@ -24,12 +24,12 @@ public class DoubleJump : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        //If the y velocity is zero, onTheGround variable is set to true
         if (rb.velocity.y == 0)
             onTheGround = true;
         else
             onTheGround = false;
-
+        //If the player is on the ground double jump is allowed
         if (onTheGround)
             doubleJumpAllowed = true;
 
