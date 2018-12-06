@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\pauseScript.cs" />
+     <Compile Include="Assets\Scripts\doubleJump.cs" />
      <Compile Include="Assets\Scripts\menu.cs" />
      <Compile Include="Assets\Scripts\MoveScenes.cs" />
      <Compile Include="Assets\Scripts\pause.cs" />

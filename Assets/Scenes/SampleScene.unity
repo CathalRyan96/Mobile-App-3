@@ -1671,9 +1671,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afdf624bdd0bce3438cc0b569fd28ee7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
-  jumpPower: 3
+  speed: 5
+  jump: 20
   rb: {fileID: 0}
+  jumpKey: 32
+  midJump: n
 --- !u!212 &1451377600
 SpriteRenderer:
   m_ObjectHideFlags: 0
